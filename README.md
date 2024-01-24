@@ -6,11 +6,10 @@
 - [3. Project Execution](#3-project execution)    
 
 
-## 1. Membres
+## 1. Member
 
 | last name | first name |                 email               |      program      |
 | --------- | ---------- | ----------------------------------- | ----------------- |
-|   ZHANG   |   Chukun   | <chukun.zhang@mail.polimi.it>       |       Computer Science     |
 | Tiwari |   Rishabh  | <rishabh.tiwari@mail.polimi.it> |       Computer Science     |
 
 
